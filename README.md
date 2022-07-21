@@ -10,6 +10,10 @@ In response to the concerning robustness issue of ABSA, [Arts](https://aclanthol
 
 In addition, we also provide *std*ABSA containing datasets from SemEval14 for standard evaluation, namely Sem14-\[domain\]-SC and Sem14-\[domain\]-OE. So corresponding performance drops can be measured properly.
 
+### 🤗 HuggingFace Datasets
+
+*adv*ABSA is also available at HuggingFace Datasets, please visit [here](https://huggingface.co/datasets/becurrio/advABSA).
+
 ### Citation
 
 If you find *adv*ABSA useful, please kindly star this repositary and cite our paper as follows:
